@@ -1,21 +1,24 @@
-# job history
+# My Profile
+
+## job history
 
 - Game Planner
 - Game Director
 - Web Ad Planner
 - Study Programing <- now
 
-# skill set
+## skill set
 
-## lang
+### lang
 - HTML5 / CSS3(include SCSS)
 - JavaScript(include TypeScript)
 - Ruby
 
-## framework & library
+### framework & library
 - React
 - Ruby on Rails
 
-## OS
+### OS
 - Mac OS
 - Linux
+- Windows
