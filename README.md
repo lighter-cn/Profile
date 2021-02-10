@@ -36,9 +36,11 @@
 - HTML5 / CSS3(include SCSS)
 - JavaScript(include TypeScript)
 - Ruby
+- shell script
 
 ### framework & library
 - React
+- express
 - Ruby on Rails
 
 ### etc
