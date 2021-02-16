@@ -35,8 +35,8 @@
 ### lang
 - HTML5 / CSS3(include SCSS)
 - JavaScript(include TypeScript)
+- Python
 - Ruby
-- shell script
 
 ### framework & library
 - React
