@@ -34,7 +34,8 @@
 
 ### lang
 - HTML5 / CSS3(include SCSS)
-- JavaScript(include TypeScript)
+- JavaScript(include node.js)
+- TypeScript
 - Python
 - Ruby
 
